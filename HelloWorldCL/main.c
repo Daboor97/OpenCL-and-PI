@@ -2,8 +2,8 @@
 //  main.c
 //  HelloWorldCL
 //
-//  Created by Гурьянов Антон on 27.04.13.
-//  Copyright (c) 2013 Gurrrik. All rights reserved.
+//  Created by Ahmed Daboor on 18.6.2019.
+//  Copyright (c) 2019 Daboor All rights reserved.
 //
 
 #include <stdio.h>
